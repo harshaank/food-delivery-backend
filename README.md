@@ -19,7 +19,7 @@
 ## The project
 
 Backend built mainly to be consumed by the frontend application made with react that you can find in
-the following link: [react-food-delivery](https://github.com/DavidBarcenas/react-food-delivery).
+the following link: [react-food-delivery](https://github.com/harshaank/react-food-delivery).
 
 ## Features
 
@@ -43,7 +43,7 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/DavidBarcenas/food-delivery-backend.git
+$ git clone https://github.com/harshaank/food-delivery-backend.git
 
 # Go into the repository
 $ cd food-delivery-backend
